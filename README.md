@@ -10,3 +10,7 @@ Once your are done, save this file.
 
 Test
 sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+
+Brandon Chacon
+I like space and exploring
+Learn to create 3d objects
